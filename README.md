@@ -13,7 +13,7 @@
 
 ## Routes
 
-:milky_way: Creer un clien:milky_way:
+:milky_way: Creer un client:milky_way:
 
 ````shell
 http://localhost:8080/tp1/creation-client
